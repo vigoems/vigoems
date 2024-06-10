@@ -1,4 +1,4 @@
-### vindas ao meu perfil :octocat:
+### Bem vindas ao meu perfil :octocat:
 
 Meu nome é vitoria gomes
 
@@ -12,4 +12,6 @@ Meu nome é vitoria gomes
 
   @viigoems
 
-  ![](https://media1.tenor.com/m/2QeuWYkvKcgAAAAd/bellingham.gif)
+  ![](![image](https://github.com/vigoems/vigoems/assets/171046205/0dcf9b72-acd1-44a4-9b2b-78a84a41a093)
+
+
