@@ -2,7 +2,7 @@
 
 Meu nome é vitoria gomes
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organizaçao e compartilhamento e dos meus projetos desenvolvidos
 
