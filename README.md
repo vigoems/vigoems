@@ -12,6 +12,6 @@ Meu nome é vitoria gomes
 
   @viigoems
 
-  ![](![image](https://github.com/vigoems/vigoems/assets/171046205/0dcf9b72-acd1-44a4-9b2b-78a84a41a093)
+  ![image](https://github.com/vigoems/vigoems/assets/171046205/0dcf9b72-acd1-44a4-9b2b-78a84a41a093)
 
 
